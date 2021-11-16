@@ -1,7 +1,7 @@
 
 ### Hi there 👋
-My name is Muafak ,  i am fullstack web developer with IT Support experience ,I am living in Berlin and currently working as assistant teacher at DCI https://media0.giphy.com/media/jHRAf2A6WuduX2raSe/giphy.gif?cid=ecf05e475rbnn9ds8dvhicld43ociacxcx07zt8kxc99l8qo&rid=giphy.gif&ct=g
-
+My name is Muafak ,  i am fullstack web developer with IT Support experience ,I am living in Berlin and currently working as assistant teacher at DCI 
+![Alt text](https://media0.giphy.com/media/jHRAf2A6WuduX2raSe/giphy.gif?cid=ecf05e475rbnn9ds8dvhicld43ociacxcx07zt8kxc99l8qo&rid=giphy.gif&ct=g)
 <!--
 **mwafaka/mwafaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
