@@ -1,4 +1,4 @@
-[![Header](https://raw.github.com/mwafaka/<OWNER>/<OWNER>/readme_header.png "Header")](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjnjsQpsnC_g_XilgDH6SlFO6DE9zDQ1n3dg&usqp=CAU)
+[![Header](https://raw.github.com/mwafaka/<OWNER>/<OWNER>/images.jpeg "Header")](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjnjsQpsnC_g_XilgDH6SlFO6DE9zDQ1n3dg&usqp=CAU)
 
 ### Hi there 👋
 
