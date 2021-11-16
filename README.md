@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ![Alt text](https://vista.today/wp-content/uploads/2015/09/minions2-1-1748x984.jpg)
 
-![alt text](https://github.com/mwafaka/mwafaka/images.jpeg?raw=true)
+![alt text](https://github.com/mwafaka/mwafaka/blob/images.jpeg?raw=true)
