@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 ![Alt text](https://vista.today/wp-content/uploads/2015/09/minions2-1-1748x984.jpg)
 
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
