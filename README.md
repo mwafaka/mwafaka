@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwafaka&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwafaka&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwafaka&repo=github-readme-stats)](https://github.com/mwafaka/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwafaka&layout=compact)](https://github.com/mwafaka/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mwafaka&repo=github-readme-stats)](https://github.com/mwafaka/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
