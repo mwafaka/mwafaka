@@ -1,7 +1,6 @@
 
-### Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there ![Alt text](wav.jpg)
 My name is Muafak ,  i am fullstack web developer with IT Support experience ,I am living in Berlin and currently working as assistant teacher at DCI 
-![Alt text]()  
 <!--
 **mwafaka/mwafaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
