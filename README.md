@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 
 
-<img src="minio.jpg">
+<img src="minio.jpg" height='200px'>
 
 
