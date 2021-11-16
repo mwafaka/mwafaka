@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/mwafaka/mwafaka/images.jpeg)
 
 
-![alt text](http://url/to/images.jpeg)
+![alt text](images.jpeg)
