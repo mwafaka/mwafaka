@@ -2,7 +2,7 @@
 ### Hi there <img src="wave.gif" width="30px">
 
 __My name is Muafak , 
-i am fullstack web developer with IT Support experience ,I am living in Berlin and currently working as assistant teacher at DCI__ <img src="type.gif" width="50px">
+i am fullstack web developer with IT Support experience ,I am living in Berlin and currently working as assistant teacher at DCI__ <img src="type.gif" width="60px">
 <!--
 **mwafaka/mwafaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
