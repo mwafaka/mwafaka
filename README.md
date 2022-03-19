@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FBF8CC,100:53E4CE&height=100&section=footer&reversal=true&fontSize=90)
+
 
 
