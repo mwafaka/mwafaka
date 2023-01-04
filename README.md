@@ -1,7 +1,7 @@
 
 ### Hi there 
  My name is Mofak , 
-i am fullstack web developer with IT Support experience ,I am living in Berlin and currently working as assistant teacher at DCI
+i am fullstack web developer with IT Support experience ,I am living in Berlin and currently working as teacher at DCI
 <!--
 **mwafaka/mwafaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
