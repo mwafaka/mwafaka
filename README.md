@@ -12,6 +12,7 @@ I'm Mwafak(Mofak), a passionate full-stack web developer based in Berlin. Welcom
 - HTML5
 - CSS3
 - JavaScript
+- typescript
 - C#
 - sql
 
@@ -20,7 +21,7 @@ I'm Mwafak(Mofak), a passionate full-stack web developer based in Berlin. Welcom
 - MySQL
 - sqlite
 - postgresql
-- Excel
+
 
 #### Libraries/Frameworks
 - React.js
