@@ -38,6 +38,7 @@ I'm Mwafak(Mofak), a passionate full-stack web developer based in Berlin. Welcom
 - Vuejs
 - Angular
 - react native
+- firebase
   
 
 #### Hosting/SaaS
