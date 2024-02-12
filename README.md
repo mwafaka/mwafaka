@@ -30,7 +30,6 @@ I'm Mwafak(Mofak), a passionate full-stack web developer based in Berlin. Welcom
 - Socket.io
 - SASS
 - Bootstrap
-- Node.js
 - Redux
 - redux Toolkit
 - Blazore
