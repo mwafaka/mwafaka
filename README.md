@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Mofak, a passionate full-stack web developer based in Berlin . Welcome to my GitHub profile!
+I'm Mofak, a passionate full-stack web developer based in Berlin. Welcome to my GitHub profile!
 
 🌱 I’m continuously learning and exploring new technologies to enhance my skills.
 
@@ -24,7 +24,6 @@ I'm Mofak, a passionate full-stack web developer based in Berlin . Welcome to my
 
 #### Libraries/Frameworks
 - React.js
-- Next.js
 - Express.js
 - JWT
 - Socket.io
