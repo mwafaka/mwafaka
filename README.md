@@ -14,13 +14,14 @@ I'm Mwafak(Mofak), a passionate full-stack web developer based in Berlin. Welcom
 - JavaScript
 - typescript
 - C#
-- sql
+
 
 #### Database
 - MongoDB
 - MySQL
 - sqlite
 - postgresql
+- sql
 
 
 #### Libraries/Frameworks
