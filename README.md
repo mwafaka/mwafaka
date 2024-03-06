@@ -9,8 +9,8 @@ I'm Mwafak(Mofak), a passionate full-stack web developer based in Berlin. Welcom
 ### Skills & Technologies
 
 #### Languages
-- HTML5
-- CSS3
+- HTML5 (Markup language)
+- CSS3 (custom stylesheet language)
 - JavaScript
 - typescript
 - C#
