@@ -13,6 +13,7 @@ I'm Mwafak(Mofak), a passionate full-stack web developer based in Berlin. Welcom
 - CSS3 (custom stylesheet language)
 - JavaScript
 - typescript
+- Java
 - C#
 - PHP
 
@@ -43,6 +44,7 @@ I'm Mwafak(Mofak), a passionate full-stack web developer based in Berlin. Welcom
 - Symfony
 - react native
 - firebase
+- Srping
   
 
 #### Hosting/SaaS
