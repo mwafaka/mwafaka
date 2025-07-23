@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Mwafak(Mofak), a passionate full-stack web developer based in Berlin. Welcome to my GitHub profile!
+I'm Mwafak(Mo), a passionate full-stack web developer based in Berlin. Welcome to my GitHub profile!
 
 🌱 I’m continuously learning and exploring new technologies to enhance my skills.
 
