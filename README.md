@@ -1,62 +1,77 @@
-### Hey there! 👋
+# 👋 Hey there, I'm Mo (Mwafak)
 
-I'm Mwafak(Mo), a passionate full-stack web developer based in Germany. Welcome to my GitHub profile!
+🚀 Full-Stack Web Developer based in Germany  
+💡 Passionate about building scalable web applications and continuously learning modern technologies  
 
-🌱 I’m continuously learning and exploring new technologies to enhance my skills.
+---
 
-💬 Ask me about anything related to web development, and I'll be happy to help!
+## 🌱 About Me
 
-### Skills & Technologies
+- Continuously learning and improving my skills  
+- Interested in modern web development & backend architecture  
+- Open to collaboration and new opportunities  
 
-#### Languages
-- HTML5 (Markup language)
-- CSS3 (custom stylesheet language)
-- JavaScript
-- typescript
-- Java
-- C#
-- PHP
+💬 Feel free to ask me anything about web development!
 
+---
 
-#### Database
-- MongoDB
-- MySQL
-- sqlite
-- postgresql
-- sql
-- Doctrine
+## 🛠️ Tech Stack
 
+### 💻 Languages
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- Java  
+- C#  
+- PHP  
 
-#### Libraries/Frameworks
-- React.js
-- Express.js
-- JWT
-- Socket.io
-- SASS
-- Bootstrap
-- Redux
-- redux Toolkit
-- Blazore
-- Asp.net
-- .Net
-- Vuejs
-- Angular
-- Symfony
-- react native
-- firebase
-- Spring Boot
-  
+### 🗄️ Databases
+- MongoDB  
+- MySQL  
+- SQLite  
+- PostgreSQL  
+- SQL  
+- Doctrine ORM  
 
-#### Hosting/SaaS
-- AWS
-- Heroku
-- Netlify
-- Vercel
+### ⚙️ Frameworks & Libraries
+- React.js  
+- Angular  
+- Vue.js  
+- Express.js  
+- Spring Boot  
+- ASP.NET Core  
+- Blazor  
+- Symfony  
+- React Native  
+- Redux & Redux Toolkit  
+- Socket.io  
+- JWT  
+- Firebase  
+- Sass  
+- Bootstrap  
 
-#### Testing
-- Jest
-- Testing Library
+### ☁️ Hosting & Cloud
+- AWS  
+- Heroku  
+- Netlify  
+- Vercel  
 
-#### Version Control
-- Git
-- GitHub
+### 🧪 Testing
+- Jest  
+- Testing Library  
+
+### 🔧 Tools & Version Control
+- Git  
+- GitHub  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 Open for opportunities  
+- 🤝 Open to collaboration  
+
+---
+
+⭐️ *Thanks for visiting my profile!*
