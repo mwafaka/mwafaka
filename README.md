@@ -1,58 +1,69 @@
 # 👋 Hey there, I'm Mo (Mwafak)
 
-🚀 **Full-Stack Web Developer** based in Germany  
-💡 Building scalable web applications & exploring modern technologies  
+🚀 Full-Stack Web Developer based in Germany  
+💡 Passionate about building scalable web applications and continuously learning modern technologies  
 
 ---
 
-## 🌟 About Me
+## 🌱 About Me
 
-- 🌱 Always learning and improving my skills  
-- 🧠 Interested in backend architecture & clean code  
-- 🤝 Open to collaboration and new opportunities  
+- Continuously learning and improving my skills  
+- Interested in modern web development & backend architecture  
+- Open to collaboration and new opportunities  
 
-💬 Ask me anything about web development — I’m happy to help!
+💬 Feel free to ask me anything about web development!
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,cs,php)
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- Java  
+- C#  
+- PHP  
 
 ### 🗄️ Databases
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
-
+- MongoDB  
+- MySQL  
 - SQLite  
+- PostgreSQL  
 - SQL  
 - Doctrine ORM  
 
 ### ⚙️ Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=react,angular,vue,express,spring,dotnet,symfony,firebase)
-
+- React.js  
+- Angular  
+- Vue.js  
+- Express.js  
+- Spring Boot  
+- ASP.NET Core  
 - Blazor  
+- Symfony  
 - React Native  
 - Redux & Redux Toolkit  
 - Socket.io  
 - JWT  
+- Firebase  
 - Sass  
 - Bootstrap  
 
 ### ☁️ Hosting & Cloud
-![Cloud](https://skillicons.dev/icons?i=aws,heroku,vercel,netlify)
+- AWS  
+- Heroku  
+- Netlify  
+- Vercel  
 
 ### 🧪 Testing
 - Jest  
 - Testing Library  
 
 ### 🔧 Tools & Version Control
-![Tools](https://skillicons.dev/icons?i=git,github)
-
----
-
-## 📊 GitHub Stats
-
-![Mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+- Git  
+- GitHub  
 
 ---
 
