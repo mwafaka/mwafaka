@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mo (Mwafak)
+# 👋 Hey there, I'm Mwafak
 
 🚀 Full-Stack Web Developer based in Germany  
 💡 Passionate about building scalable web applications and continuously learning modern technologies  
