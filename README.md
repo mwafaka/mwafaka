@@ -1,77 +1,37 @@
-# 👋 Hey there, I'm Mwafak
+**Full-Stack Developer · Germany**
 
-🚀 Full-Stack Web Developer based in Germany  
-💡 Passionate about building scalable web applications and continuously learning modern technologies  
-
----
-
-## 🌱 About Me
-
-- Continuously learning and improving my skills  
-- Interested in modern web development & backend architecture  
-- Open to collaboration and new opportunities  
-
-💬 Feel free to ask me anything about web development!
+Building scalable web applications across the full stack — from database architecture to polished UIs. I work across multiple languages and frameworks, and I'm always deepening my understanding of the systems underneath.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
-- HTML5  
-- CSS3  
-- JavaScript  
-- TypeScript  
-- Java  
-- C#  
-- PHP  
+**Languages**
+TypeScript · JavaScript · Java · C# · PHP
 
-### 🗄️ Databases
-- MongoDB  
-- MySQL  
-- SQLite  
-- PostgreSQL  
-- SQL  
-- Doctrine ORM  
+**Frontend**
+React.js · Angular · Vue.js · React Native · Blazor · Redux & Redux Toolkit · Sass · Bootstrap
 
-### ⚙️ Frameworks & Libraries
-- React.js  
-- Angular  
-- Vue.js  
-- Express.js  
-- Spring Boot  
-- ASP.NET Core  
-- Blazor  
-- Symfony  
-- React Native  
-- Redux & Redux Toolkit  
-- Socket.io  
-- JWT  
-- Firebase  
-- Sass  
-- Bootstrap  
+**Backend**
+Express.js · Spring Boot · ASP.NET Core · Symfony · Socket.io · JWT · Firebase
 
-### ☁️ Hosting & Cloud
-- AWS  
-- Heroku  
-- Netlify  
-- Vercel  
+**Databases**
+PostgreSQL · MySQL · MongoDB · SQLite · Doctrine ORM
 
-### 🧪 Testing
-- Jest  
-- Testing Library  
+**Cloud & Hosting**
+AWS · Vercel · Netlify · Heroku
 
-### 🔧 Tools & Version Control
-- Git  
-- GitHub  
+**Testing & Tooling**
+Jest · Testing Library · Git · GitHub . Docker . Kubernetes
 
 ---
 
-## 📫 Let's Connect
+## Currently
 
-- 💼 Open for opportunities  
-- 🤝 Open to collaboration  
+- Deepening my expertise in backend architecture and distributed systems
+- Exploring modern patterns in full-stack TypeScript
+- Open to new opportunities and meaningful collaborations
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
+
