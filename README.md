@@ -26,12 +26,4 @@ Jest · Testing Library · Git · GitHub . Docker . Kubernetes
 
 ---
 
-## Currently
-
-- Deepening my expertise in backend architecture and distributed systems
-- Exploring modern patterns in full-stack TypeScript
-- Open to new opportunities and meaningful collaborations
-
----
-
 
